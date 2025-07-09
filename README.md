@@ -8,6 +8,9 @@ This tool patches the Spotify client by replacing specific DLLs in the `%AppData
 
 ---
 
+![image](https://github.com/user-attachments/assets/1b5a8e22-a25d-43ef-8d41-7d026e69a582)
+
+---
 ## ⚠️ About Safety & Misconceptions
 
 If you have **any doubts or suspicions**, feel free to upload the executable to [VirusTotal](https://www.virustotal.com/) or inspect the source code yourself. This project is **not a RAT**, trojan, or malicious in any way.
